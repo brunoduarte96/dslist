@@ -1,7 +1,6 @@
 package com.duarte.dslist.controllers;
 
 import com.duarte.dslist.dto.GameMinDTO;
-import com.duarte.dslist.entities.Game;
 import com.duarte.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
